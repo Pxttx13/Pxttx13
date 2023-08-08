@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pxttx13-portfolio.netlify.app/](https://pxttx13-portfolio.netlify.app/)
 
-- 💬 Ask me about ** C programming,HTML,CSS**
+- 💬 Ask me about **C programming,HTML,CSS**
 
 - 📫 How to reach me **Pradeepmuralidhar29@gmail.com**
 
